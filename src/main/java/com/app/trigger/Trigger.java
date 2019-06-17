@@ -77,6 +77,7 @@ class MyRepo {
         this.studentMap.put("421", new Student("421", "Jerry", "McDonald", 23, new Address("1167RT", 29, "Utrecht"), Collections.emptyList()));
         this.studentMap.put("345", new Student("345", "Rob", "Schmuck", 20, new Address("9908JK", 13, "Utrecht"), Collections.emptyList()));
         this.studentMap.put("671", new Student("671", "Roy", "Field", 24, new Address("3421WE", 37, "Utrecht"), Collections.emptyList()));
+        this.studentMap.put("231", new Student("231", "Don", "Blue", 29, new Address("3428WE", 47, "Utrecht"), Collections.emptyList()));
 
     }
 
