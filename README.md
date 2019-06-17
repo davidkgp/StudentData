@@ -1,5 +1,5 @@
 # Command to run container
-docker run -d -p 8091:<hostport> -t davidkgp/student-data:1.0-SNAPSHOT
+docker run -d -p hostport:8091 -t davidkgp/student-data:1.0-SNAPSHOT
 
 # To access docker application
 ## Using boot2docker 
